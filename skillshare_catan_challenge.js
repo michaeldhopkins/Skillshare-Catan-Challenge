@@ -55,5 +55,5 @@ if (deck1_face_ups === deck2_face_ups)
 }
 else
 {
-	console.log("We can write anything we want here because it will never see the light of day.")
+	console.log("We can write anything we want here because it will never see the light of day (unless you've made number_of_face_ups an odd number).")
 }
